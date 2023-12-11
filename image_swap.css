@@ -1,0 +1,43 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 87.5%;
+	width: auto;
+	margin: 0 auto;
+	padding: 15px 25px;	
+	border:  blue;
+}
+	
+h1, h2, ul, p {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	padding-bottom: .25em;
+}
+h2 {
+	font-size: 120%;
+	padding: .5em 0 .25em;
+}
+li {
+	padding-right: 10px;
+	display: inline;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+img#main_image {
+	height: 515px;
+	width: 480px;
+	justify-content: center;
+	text-align: center;
+}
+img {
+	height:270px;
+	width: 250px;
+}
+
+h2#caption
+{
+	justify-content: center;
+}

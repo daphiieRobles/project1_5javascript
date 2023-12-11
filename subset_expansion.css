@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 87.5%;
+	width: auto;
+	margin: 0 auto;
+	padding: 15px 25px;	
+	border:  blue;
+}
+h1 { 
+	font-size: 150%;
+}
+h2 {
+	font-size: 120%;
+	padding: .25em 0 .25em 25px;
+}
+.hide {
+    display: none;
+}
+
+.expanded {
+    display: block;
+}
+ul {
+	padding-left: 50px;
+}
+li {
+	padding-bottom: .4em;
+}
+p, a {
+	padding-bottom: .4em;
+	padding-left: 25px;
+}
+a, a:focus, a:hover {
+	color: blue;
+}
+
+nav.horizontalNavigation li {
+    display: block;
+    float: left;
+    color: white;
+}
